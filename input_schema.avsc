@@ -10,7 +10,7 @@
             "protectedClass": false,
             "driftCandidate": false,
             "specialValues": [],
-            "scoringOptional": false,
+            "scoringOptional": false
         },
         {
             "name": "const",
@@ -20,7 +20,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": false,
+            "scoringOptional": false
         },
         {
             "name": "decrease_in_property_tax",
@@ -30,7 +30,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": false,
+            "scoringOptional": false
         },
         {
             "name": "distance_to_metropolis",
@@ -40,7 +40,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": false,
+            "scoringOptional": false
         },
         {
             "name": "change_in_housing_index",
@@ -50,7 +50,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": false,
+            "scoringOptional": false
         },
         {
             "name": "change_in_precipitation",
@@ -60,7 +60,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": false,
+            "scoringOptional": false
         },
         {
             "name": "avg_download_speed",
@@ -70,7 +70,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": false,
+            "scoringOptional": false
         },
         {
             "name": "predicted_population_growth",
@@ -80,7 +80,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": true,
+            "scoringOptional": true
         },
         {
             "name": "actual_population_growth",
@@ -90,7 +90,7 @@
             "protectedClass": false,
             "driftCandidate": true,
             "specialValues": [],
-            "scoringOptional": true,
+            "scoringOptional": true
         },
         {
             "name": "residual",
@@ -100,7 +100,7 @@
             "protectedClass": false,
             "driftCandidate": false,
             "specialValues": [],
-            "scoringOptional": true,
-        },
-    ],
+            "scoringOptional": true
+        }
+    ]
 }
