@@ -1,0 +1,7 @@
+{
+    "tags": [],
+    "name": "Population Growth Predictor",
+    "description": "Linear regression model to predict population growth",
+    "modelCategory": "BUSINESS_MODEL",
+    "custom": {}
+}
